@@ -4,7 +4,7 @@
 
 Hi!There,<br><br>Yan is analytical and resolute Software Engineer with Military working experience and academic background in object-oriented analysis and design, comfort with a variety of technologies, and always interest in learning new ones.</br></br>
 
-##Here is more updates✨
+##More about ME!👋
 
 - 🔭 I’m currently working on ...Back to school is fun!!!MSSA program is fun and challenge!!!
 - 🌱 I’m currently learning ...Everything to build APPs&Sites~My personal website coming soon@@
