@@ -1,16 +1,18 @@
-### Hi there 👋
+### HelloWorld 👋
 
-<!--
-**yanxu2021/YANXU2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
 
-Here are some ideas to get you started:
+Hi!There,Yan is analytical and resolute Software Engineer with Military working experience and academic background in object-oriented analysis and design, comfort with a variety of technologies, and always interest in learning new ones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+##Here is more updates✨
+
+- 🔭 I’m currently working on ...Back to school is fun!!!MSSA program is fun and challenge!!!
+- 🌱 I’m currently learning ...Everything to build APPs&Sites~My personal website coming soon@@
+- 👯 I’m looking to collaborate on ...Fun people**
+- 🤔 I’m looking for help with ...Anyone want to talk LOL
+- 💬 Ask me about ...(You decided)
+- 📫 How to reach me: ...https://www.linkedin.com/in/yanxu2021/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
