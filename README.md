@@ -2,7 +2,7 @@
 
 ![Photo](https://img9.doubanio.com/view/status/l/public/2207ddd0c9504e4.webp)
 
-Hi!There,<br>Yan is analytical and resolute Software Engineer with Military working experience and academic background in object-oriented analysis and design, comfort with a variety of technologies, and always interest in learning new ones.</br>
+Hi!There,<br><br>Yan is analytical and resolute Software Engineer with Military working experience and academic background in object-oriented analysis and design, comfort with a variety of technologies, and always interest in learning new ones.</br></br>
 
 ##Here is more updates✨
 
