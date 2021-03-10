@@ -8,7 +8,7 @@ Hi!There,<br><br>Yan is analytical and resolute Software Engineer with Military 
 
 - 🔭 I’m currently working on ...Back to school is fun!!!MSSA program is fun and challenge!!!
 - 🌱 I’m currently learning ...Everything to build APPs&Sites~My personal website coming soon@@
-- 👯 I’m looking to collaborate on ...Fun people**
+- 👯 I’m looking to collaborate on /with...Fun project and fun people**
 - 🤔 I’m looking for help with ...Anyone want to talk LOL
 - 💬 Ask me about ...(You decided)
 - 📫 How to reach me: ...https://www.linkedin.com/in/yanxu2021/
