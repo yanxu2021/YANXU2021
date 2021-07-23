@@ -14,3 +14,5 @@ Hi! There,<br><br>Yan is analytical and resolute Software Engineer with Military
 - ⚡ Fun fact: ...
 -->
 <br><br><br>![Photo](https://img9.doubanio.com/view/status/raw/public/5ca97321a456d58.jpg)</br></br></br>
+
+![<img src="https://img9.doubanio.com/view/status/raw/public/5ca97321a456d58.jpg" width="100"/>](image.png)
